@@ -28,7 +28,7 @@ Hi, I'm Hunter, Christerpher, a Web Developer, Python Developer, and Home Hostin
 - 📫 How to reach me: Any of the Social-Media Platform 
 - 📝[Portfolio](https://djhunter67.github.io/)
 
-<img align="right" alt="GIF2" src="https://media.giphy.com/media/ZB2R2hgFQ3tppCJUiv/giphy-downsized-large.gif" />
+
 
 **Languages and Tools:**
 
@@ -42,3 +42,5 @@ Hi, I'm Hunter, Christerpher, a Web Developer, Python Developer, and Home Hostin
 </code>
 
 ![Hunter's github stats](https://github-readme-stats.vercel.app/api?username=djhunter67&show_icons=true&hide_border=true)
+  
+  <img align="right" alt="GIF2" src="https://media.giphy.com/media/ZB2R2hgFQ3tppCJUiv/giphy-downsized-large.gif" />
