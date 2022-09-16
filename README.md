@@ -17,7 +17,7 @@
 Hi,I'm Hunter, Christerpher, a Web Developer, Python Developer and Home Hosting Enthusiast. Apart from that I love getting involved in Rust Programming.❤✌
 
 
-<img align="right" alt="GIF" src="![image](https://user-images.githubusercontent.com/25860608/190689757-74eb7fc2-d028-4715-9f2a-1df1d7d706bb.png)" />
+<div class="tenor-gif-embed" data-postid="21156226" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/pixels-neon-old-80s-hacker-gif-21156226">Pixels Neon GIF</a>from <a href="https://tenor.com/search/pixels-gifs">Pixels GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 **Talking about Personal Stuffs:**
