@@ -18,6 +18,8 @@ Hi, I'm Hunter, Christerpher, a Web Developer, Python Developer, and Home Hostin
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/kGFqR72PTCTujo6uKE/giphy.gif" />
 
+<img align="right" alt="GIF2" src="https://media.giphy.com/media/ZB2R2hgFQ3tppCJUiv/giphy-downsized-large.gif" />
+
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently employed at CellAntenna Wireless.
