@@ -17,7 +17,7 @@
 Hi,I'm Hunter, Christerpher, a Web Developer, Python Developer and Home Hosting Enthusiast. Apart from that I love getting involved in Rust Programming.❤✌
 
 
-<img align="right" alt="GIF" src="![image](https://user-images.githubusercontent.com/25860608/190689682-9f109045-4836-4ba1-a45a-914101b2b844.png)" />
+<img align="right" alt="GIF" src="![image](https://user-images.githubusercontent.com/25860608/190689757-74eb7fc2-d028-4715-9f2a-1df1d7d706bb.png)" />
 
 
 **Talking about Personal Stuffs:**
