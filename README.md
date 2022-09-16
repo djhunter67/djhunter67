@@ -16,7 +16,7 @@
 
 Hi,I'm Hunter, Christerpher, a Web Developer, Python Developer and Home Hosting Enthusiast. Apart from that I love getting involved in Rust Programming.❤✌
 
-<img src="https://giphy.com/embed/kGFqR72PTCTujo6uKE" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gerryandersontv-red-alert-space-1999-space1999-kGFqR72PTCTujo6uKE">via GIPHY</a></p>
+<img src="https://giphy.com/embed/kGFqR72PTCTujo6uKE" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/gerryandersontv-red-alert-space-1999-space1999-kGFqR72PTCTujo6uKE">via GIPHY</a></p>
 
 
 **Talking about Personal Stuffs:**
