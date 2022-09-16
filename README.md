@@ -14,7 +14,7 @@
 
 <br />
 
-Hi,I'm Hunter, Christerpher, a Web Developer, Chatbot Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Hi,I'm Hunter, Christerpher, a Web Developer, Python Developer and Home Hosting Enthusiast. Apart from that I love getting involved in Rust Programming.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
@@ -22,15 +22,11 @@ Hi,I'm Hunter, Christerpher, a Web Developer, Chatbot Developer and Cloud Enthus
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently Intern at CodeCrunch.
-- 🌱 I’m currently learning Angular.
+- 🔭 I’m currently employed at CellAntenna Wireless.
+- 🌱 I’m currently the Lead Software Developer.
 - 👯 Part of Developer Community.
-- 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
-- ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)
-- 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
-- ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/)
-
+- 📝[Portfolio](https://djhunter67.github.io/)
 
 
 **Languages and Tools:**
