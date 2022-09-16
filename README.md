@@ -16,7 +16,7 @@
 
 Hi,I'm Hunter, Christerpher, a Web Developer, Python Developer and Home Hosting Enthusiast. Apart from that I love getting involved in Rust Programming.❤✌
 
-<img align="right" alt="GIF" src="![image](https://tenor.com/view/pixels-neon-old-80s-hacker-gif-21156226)" />
+<img align="right" alt="GIF" src="https://tenor.com/view/pixels-neon-old-80s-hacker-gif-21156226" />
 
 
 **Talking about Personal Stuffs:**
