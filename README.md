@@ -49,6 +49,6 @@ Hi, I'm Hunter, Christerpher, a Web Developer, Python Developer, and Home Hostin
 </code>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djhunter67&exclude_repo=Crime-analysis&hide=css,sass&theme=tokyonight)
-<img align="right" alt="GIF2" src="https://media.giphy.com/media/ZB2R2hgFQ3tppCJUiv/giphy-downsized-large.gif" width="248", height="372" />
+<img align="right" alt="GIF2" src="https://media.giphy.com/media/ZB2R2hgFQ3tppCJUiv/giphy-downsized-large.gif" width="240", height="240" />
 ![Hunter's github stats](https://github-readme-stats.vercel.app/api?username=djhunter67&show_icons=true&hide_border=true)
   
