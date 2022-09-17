@@ -48,10 +48,7 @@ Hi, I'm Hunter, Christerpher, a Web Developer, Python Developer, and Home Hostin
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
 </code>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djhunter67&exclude_repo=Crime-analysis&hide=css,sass&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djhunter67&exclude_repo=Crime-analysis&hide=css,sass&theme=tokyonight)
+<img align="right" alt="GIF2" src="https://media.giphy.com/media/ZB2R2hgFQ3tppCJUiv/giphy-downsized-large.gif" />
 ![Hunter's github stats](https://github-readme-stats.vercel.app/api?username=djhunter67&show_icons=true&hide_border=true)
   
-<img align="right" align="up" alt="GIF2" src="https://media.giphy.com/media/ZB2R2hgFQ3tppCJUiv/giphy-downsized-large.gif" />
-  
-
