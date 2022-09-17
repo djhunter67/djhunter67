@@ -1,6 +1,11 @@
+[![pages-build-deployment](https://github.com/djhunter67/djhunter67.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/djhunter67/djhunter67.github.io/actions/workflows/pages/pages-build-deployment)
+<br />
+
 ###  👋 It's [Hunter, Christerpher!](https://christerpher.github.io/) 
 
 ### <img src="https://user-images.githubusercontent.com/25860608/190861069-a7c3cf6d-d406-4ef3-a4ad-15885466438c.png" width="32" height="32" /> : 8 Years Marine Corps Infantry 
+
+
 
 
 <br/>
@@ -49,4 +54,4 @@ Hi, I'm Hunter, Christerpher, a Web Developer, Python Developer, and Home Hostin
   
   <img align="right" alt="GIF2" src="https://media.giphy.com/media/ZB2R2hgFQ3tppCJUiv/giphy-downsized-large.gif" />
   
-[![pages-build-deployment](https://github.com/djhunter67/djhunter67.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/djhunter67/djhunter67.github.io/actions/workflows/pages/pages-build-deployment)
+
