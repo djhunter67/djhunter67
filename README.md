@@ -52,6 +52,6 @@ Hi, I'm Hunter, Christerpher, a Web Developer, Python Developer, and Home Hostin
 
 ![Hunter's github stats](https://github-readme-stats.vercel.app/api?username=djhunter67&show_icons=true&hide_border=true)
   
-  <img align="right" alt="GIF2" src="https://media.giphy.com/media/ZB2R2hgFQ3tppCJUiv/giphy-downsized-large.gif" />
+<img align="right" align="up" alt="GIF2" src="https://media.giphy.com/media/ZB2R2hgFQ3tppCJUiv/giphy-downsized-large.gif" />
   
 
