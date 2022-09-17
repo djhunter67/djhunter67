@@ -1,4 +1,6 @@
-###  👋 It's [Hunter,Christerpher!](https://christerpher.github.io/)
+###  👋 It's [Hunter, Christerpher!](https://christerpher.github.io/)
+###   ![usmc_logo](https://user-images.githubusercontent.com/25860608/190861069-a7c3cf6d-d406-4ef3-a4ad-15885466438c.png) : 8 Years 
+
 
 <br/>
 
