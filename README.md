@@ -28,7 +28,6 @@ Hi, I'm Hunter, Christerpher, a Web Developer, Python Developer, and Home Hostin
 - 🔭 I’m currently employed at CellAntenna Wireless.
 - 🌱 I’m currently the Lead Software Developer.
 - 👯 Part of Developer Community.
-- 📫 How to reach me: Any of the Social-Media Platform 
 - 📝[Portfolio](https://djhunter67.github.io/)
 
 
