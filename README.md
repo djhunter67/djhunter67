@@ -1,6 +1,8 @@
 [![pages-build-deployment](https://github.com/djhunter67/djhunter67.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/djhunter67/djhunter67.github.io/actions/workflows/pages/pages-build-deployment)
 <br />
 
+[![wakatime](https://wakatime.com/badge/user/f410a703-5340-4082-94f5-c5c73840bf28.svg)](https://wakatime.com/@f410a703-5340-4082-94f5-c5c73840bf28)
+<br />
 ###  👋 It's [Hunter, Christerpher!](https://christerpher.github.io/) 
 
 ### <img src="https://user-images.githubusercontent.com/25860608/190861069-a7c3cf6d-d406-4ef3-a4ad-15885466438c.png" width="32" height="32" />  8 Years Marine Corps Infantry 
