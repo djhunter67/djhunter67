@@ -1,18 +1,18 @@
-[![pages-build-deployment](https://github.com/djhunter67/djhunter67.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/djhunter67/djhunter67.github.io/actions/workflows/pages/pages-build-deployment)
-<br />
-
+[Latest project](https://github.com/djhunter67/study_site)
+<br/>
+<br/>
+[Filling A personal need \(in progress)](https://github.com/djhunter67/personal_budget_app_rs)
+<br/>
+<br/>
 [![wakatime](https://wakatime.com/badge/user/f410a703-5340-4082-94f5-c5c73840bf28.svg)](https://wakatime.com/@f410a703-5340-4082-94f5-c5c73840bf28)
 <br />
-###  👋 It's [Hunter, Christerpher!](https://christerpher.com/) 
+###  👋 Hi! I am [Hunter, Christerpher!](https://christerpher.com/) 
 
-### <img src="https://user-images.githubusercontent.com/25860608/190861069-a7c3cf6d-d406-4ef3-a4ad-15885466438c.png" width="32" height="32" />  8 Years Marine Corps Infantry 
+### [Build Day X](https://www.act.house/pre-accelerator) Winner, Miami 
+<img src="https://github.com/user-attachments/assets/fe789bab-8601-4021-9cfc-082049ba4648" width="267.75" height="357" />
 
-
-
-
+### <img src="https://user-images.githubusercontent.com/25860608/190861069-a7c3cf6d-d406-4ef3-a4ad-15885466438c.png" width="128" height="128" />  8 Years Marine Corps Infantry 
 <br/>
-
-
 
 <a href="https://www.linkedin.com/in/christerpher/">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -24,11 +24,9 @@
 
 <br />
 
-Hi, I'm Hunter, Christerpher, a Web Developer, Python Developer, and Home Hosting Enthusiast. Apart from that I love getting involved in Rust Programming.❤✌
+Hi, I'm Hunter, Christerpher, a Full Stack, Rust, and Python Developer. I host several servers as part of my home lab.❤✌
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/a8rlSHPozsTEuh1ibJ/giphy.gif" />
-
-
 
 **Talking about Personal Stuffs:**
 
@@ -51,6 +49,4 @@ Hi, I'm Hunter, Christerpher, a Web Developer, Python Developer, and Home Hostin
 </code>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djhunter67&exclude_repo=Crime-analysis&hide=css,sass&theme=tokyonight)
-<img align="right" alt="GIF2" src="https://media.giphy.com/media/ZB2R2hgFQ3tppCJUiv/giphy-downsized-large.gif" width="240" height="240" />
-![Hunter's github stats](https://github-readme-stats.vercel.app/api?username=djhunter67&show_icons=true&hide_border=true)
-  
+
